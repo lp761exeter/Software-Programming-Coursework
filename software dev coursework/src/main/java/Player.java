@@ -2,7 +2,13 @@ import java.util.ArrayList;
 
 public class Player 
 {
+    private int id;
     ArrayList<Card> hand = new ArrayList<>();
+
+    public Player(int i)
+    {
+        id = i;
+    }
 
     // returns an array of the hand object 
     public Card[] getHand() 
@@ -19,9 +25,30 @@ public class Player
     {
         if (hand.size()>=4)
         {
-            
+            System.out.println("Hand is full");
         }
+        else
+        {
+            hand.add(c);
+        }
+    }
 
-        hand.add(c);
+    public Card discard(int pos)
+    {
+        Card card = hand.get(pos);
+        hand.remove(pos);
+        return card;
+        
+    }
+
+    public void printHand()
+    {
+        String result = "Player "+id+" hand: ";
+        for (int i = 0; i<hand.size(); i++)
+        {
+            Card card = hand.get(i);
+            result+=""+card.getValue()+", ";
+        }
+        System.out.println(result);
     }
 }
