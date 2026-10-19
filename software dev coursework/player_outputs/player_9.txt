@@ -1,0 +1,61 @@
+player 9 discards a 12 to deck 9
+player 9 draws a 7 from deck 8
+Player 9 hand: 13 5 2 7 
+player 9 discards a 13 to deck 9
+player 9 draws a 4 from deck 8
+Player 9 hand: 5 2 7 4 
+player 9 discards a 5 to deck 9
+player 9 draws a 6 from deck 8
+Player 9 hand: 2 7 4 6 
+player 9 discards a 2 to deck 9
+player 9 draws a 16 from deck 8
+Player 9 hand: 7 4 6 16 
+player 9 discards a 7 to deck 9
+player 9 draws a 3 from deck 8
+Player 9 hand: 4 6 16 3 
+player 9 discards a 4 to deck 9
+player 9 draws a 9 from deck 8
+Player 9 hand: 6 16 3 9 
+player 9 discards a 6 to deck 9
+player 9 draws a 4 from deck 8
+Player 9 hand: 16 3 9 4 
+player 9 discards a 16 to deck 9
+player 9 draws a 7 from deck 8
+Player 9 hand: 3 9 4 7 
+player 9 discards a 3 to deck 9
+player 9 draws a 2 from deck 8
+Player 9 hand: 9 4 7 2 
+player 9 discards a 4 to deck 9
+player 9 draws a 15 from deck 8
+Player 9 hand: 9 7 2 15 
+player 9 discards a 7 to deck 9
+player 9 draws a 13 from deck 8
+Player 9 hand: 9 2 15 13 
+player 9 discards a 2 to deck 9
+player 9 draws a 10 from deck 8
+Player 9 hand: 9 15 13 10 
+player 9 discards a 15 to deck 9
+player 9 draws a 16 from deck 8
+Player 9 hand: 9 13 10 16 
+player 9 discards a 13 to deck 9
+player 9 draws a 9 from deck 8
+Player 9 hand: 9 10 16 9 
+player 9 discards a 10 to deck 9
+player 9 draws a 1 from deck 8
+Player 9 hand: 9 16 9 1 
+player 9 discards a 16 to deck 9
+player 9 draws a 13 from deck 8
+Player 9 hand: 9 9 1 13 
+player 9 discards a 1 to deck 9
+player 9 draws a 11 from deck 8
+Player 9 hand: 9 9 13 11 
+player 9 discards a 13 to deck 9
+player 9 draws a 2 from deck 8
+Player 9 hand: 9 9 11 2 
+player 9 discards a 11 to deck 9
+player 9 draws a 15 from deck 8
+Player 9 hand: 9 9 2 15 
+player 9 discards a 2 to deck 9
+player 9 draws a 16 from deck 8
+Player 9 hand: 9 9 15 16 
+player 8 has informed player 9 that player 8 has won

@@ -1,0 +1,61 @@
+player 3 discards a 10 to deck 3
+player 3 draws a 14 from deck 2
+Player 3 hand: 1 2 7 14 
+player 3 discards a 1 to deck 3
+player 3 draws a 11 from deck 2
+Player 3 hand: 2 7 14 11 
+player 3 discards a 2 to deck 3
+player 3 draws a 4 from deck 2
+Player 3 hand: 7 14 11 4 
+player 3 discards a 7 to deck 3
+player 3 draws a 1 from deck 2
+Player 3 hand: 14 11 4 1 
+player 3 discards a 14 to deck 3
+player 3 draws a 5 from deck 2
+Player 3 hand: 11 4 1 5 
+player 3 discards a 11 to deck 3
+player 3 draws a 15 from deck 2
+Player 3 hand: 4 1 5 15 
+player 3 discards a 4 to deck 3
+player 3 draws a 14 from deck 2
+Player 3 hand: 1 5 15 14 
+player 3 discards a 1 to deck 3
+player 3 draws a 4 from deck 2
+Player 3 hand: 5 15 14 4 
+player 3 discards a 5 to deck 3
+player 3 draws a 6 from deck 2
+Player 3 hand: 15 14 4 6 
+player 3 discards a 15 to deck 3
+player 3 draws a 15 from deck 2
+Player 3 hand: 14 4 6 15 
+player 3 discards a 14 to deck 3
+player 3 draws a 16 from deck 2
+Player 3 hand: 4 6 15 16 
+player 3 discards a 4 to deck 3
+player 3 draws a 9 from deck 2
+Player 3 hand: 6 15 16 9 
+player 3 discards a 6 to deck 3
+player 3 draws a 5 from deck 2
+Player 3 hand: 15 16 9 5 
+player 3 discards a 15 to deck 3
+player 3 draws a 13 from deck 2
+Player 3 hand: 16 9 5 13 
+player 3 discards a 16 to deck 3
+player 3 draws a 3 from deck 2
+Player 3 hand: 9 5 13 3 
+player 3 discards a 9 to deck 3
+player 3 draws a 10 from deck 2
+Player 3 hand: 5 13 3 10 
+player 3 discards a 5 to deck 3
+player 3 draws a 3 from deck 2
+Player 3 hand: 13 3 10 3 
+player 3 discards a 13 to deck 3
+player 3 draws a 3 from deck 2
+Player 3 hand: 3 10 3 3 
+player 3 discards a 10 to deck 3
+player 3 draws a 14 from deck 2
+Player 3 hand: 3 3 3 14 
+player 3 discards a 14 to deck 3
+player 3 draws a 14 from deck 2
+Player 3 hand: 3 3 3 14 
+player 8 has informed player 3 that player 8 has won

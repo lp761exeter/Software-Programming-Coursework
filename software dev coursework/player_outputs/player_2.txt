@@ -1,0 +1,61 @@
+player 2 discards a 1 to deck 2
+player 2 draws a 4 from deck 1
+Player 2 hand: 5 15 14 4 
+player 2 discards a 5 to deck 2
+player 2 draws a 6 from deck 1
+Player 2 hand: 15 14 4 6 
+player 2 discards a 15 to deck 2
+player 2 draws a 15 from deck 1
+Player 2 hand: 14 4 6 15 
+player 2 discards a 14 to deck 2
+player 2 draws a 16 from deck 1
+Player 2 hand: 4 6 15 16 
+player 2 discards a 4 to deck 2
+player 2 draws a 9 from deck 1
+Player 2 hand: 6 15 16 9 
+player 2 discards a 6 to deck 2
+player 2 draws a 5 from deck 1
+Player 2 hand: 15 16 9 5 
+player 2 discards a 15 to deck 2
+player 2 draws a 13 from deck 1
+Player 2 hand: 16 9 5 13 
+player 2 discards a 16 to deck 2
+player 2 draws a 3 from deck 1
+Player 2 hand: 9 5 13 3 
+player 2 discards a 9 to deck 2
+player 2 draws a 10 from deck 1
+Player 2 hand: 5 13 3 10 
+player 2 discards a 5 to deck 2
+player 2 draws a 3 from deck 1
+Player 2 hand: 13 3 10 3 
+player 2 discards a 13 to deck 2
+player 2 draws a 3 from deck 1
+Player 2 hand: 3 10 3 3 
+player 2 discards a 3 to deck 2
+player 2 draws a 14 from deck 1
+Player 2 hand: 10 3 3 14 
+player 2 discards a 10 to deck 2
+player 2 draws a 14 from deck 1
+Player 2 hand: 3 3 14 14 
+player 2 discards a 3 to deck 2
+player 2 draws a 12 from deck 1
+Player 2 hand: 3 14 14 12 
+player 2 discards a 3 to deck 2
+player 2 draws a 12 from deck 1
+Player 2 hand: 14 14 12 12 
+player 2 discards a 14 to deck 2
+player 2 draws a 13 from deck 1
+Player 2 hand: 14 12 12 13 
+player 2 discards a 14 to deck 2
+player 2 draws a 5 from deck 1
+Player 2 hand: 12 12 13 5 
+player 2 discards a 12 to deck 2
+player 2 draws a 2 from deck 1
+Player 2 hand: 12 13 5 2 
+player 2 discards a 12 to deck 2
+player 2 draws a 7 from deck 1
+Player 2 hand: 13 5 2 7 
+player 2 discards a 13 to deck 2
+player 2 draws a 4 from deck 1
+Player 2 hand: 5 2 7 4 
+player 8 has informed player 2 that player 8 has won

@@ -1,0 +1,61 @@
+player 8 discards a 6 to deck 8
+player 8 draws a 4 from deck 7
+Player 8 hand: 16 3 9 4 
+player 8 discards a 16 to deck 8
+player 8 draws a 7 from deck 7
+Player 8 hand: 3 9 4 7 
+player 8 discards a 3 to deck 8
+player 8 draws a 2 from deck 7
+Player 8 hand: 9 4 7 2 
+player 8 discards a 9 to deck 8
+player 8 draws a 15 from deck 7
+Player 8 hand: 4 7 2 15 
+player 8 discards a 4 to deck 8
+player 8 draws a 13 from deck 7
+Player 8 hand: 7 2 15 13 
+player 8 discards a 7 to deck 8
+player 8 draws a 10 from deck 7
+Player 8 hand: 2 15 13 10 
+player 8 discards a 2 to deck 8
+player 8 draws a 16 from deck 7
+Player 8 hand: 15 13 10 16 
+player 8 discards a 15 to deck 8
+player 8 draws a 9 from deck 7
+Player 8 hand: 13 10 16 9 
+player 8 discards a 13 to deck 8
+player 8 draws a 8 from deck 7
+Player 8 hand: 10 16 9 8 
+player 8 discards a 10 to deck 8
+player 8 draws a 1 from deck 7
+Player 8 hand: 16 9 8 1 
+player 8 discards a 16 to deck 8
+player 8 draws a 13 from deck 7
+Player 8 hand: 9 8 1 13 
+player 8 discards a 9 to deck 8
+player 8 draws a 11 from deck 7
+Player 8 hand: 8 1 13 11 
+player 8 discards a 1 to deck 8
+player 8 draws a 2 from deck 7
+Player 8 hand: 8 13 11 2 
+player 8 discards a 13 to deck 8
+player 8 draws a 8 from deck 7
+Player 8 hand: 8 11 2 8 
+player 8 discards a 11 to deck 8
+player 8 draws a 15 from deck 7
+Player 8 hand: 8 2 8 15 
+player 8 discards a 2 to deck 8
+player 8 draws a 16 from deck 7
+Player 8 hand: 8 8 15 16 
+player 8 discards a 15 to deck 8
+player 8 draws a 11 from deck 7
+Player 8 hand: 8 8 16 11 
+player 8 discards a 16 to deck 8
+player 8 draws a 11 from deck 7
+Player 8 hand: 8 8 11 11 
+player 8 discards a 11 to deck 8
+player 8 draws a 8 from deck 7
+Player 8 hand: 8 8 11 8 
+player 8 discards a 11 to deck 8
+player 8 draws a 8 from deck 7
+Player 8 hand: 8 8 8 8 
+Player 8 wins
